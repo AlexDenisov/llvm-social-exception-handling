@@ -2,6 +2,8 @@
 
 https://www.meetup.com/llvm-social-berlin/events/296282330/
 
+📹 [Recording](https://youtu.be/gH5-lITYrMg)
+
 ### Links
 
  - [An Introduction to Stack Unwinding and Exception Handling](https://www.zyma.me/post/stack-unwind-intro/)
